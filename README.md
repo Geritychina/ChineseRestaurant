@@ -1,5 +1,5 @@
 # ChineseRestaurant🍣🥬🍖 - 中餐厅
-📌Simple Angular application for restaurant management <br>
+📌Simple Angular application for restaurant management with CRUD operation<br>
 
 📌Used: Json Server, Boostrap & Angular <br>
 
