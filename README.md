@@ -5,4 +5,4 @@ ChineseRestaurant🍣🥬🍖 - 中餐厅 <br>
 
 📌Angular Course work
 
-📌Made with love By Gergana™
+Made with love By Gergana™
