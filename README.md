@@ -3,6 +3,5 @@ ChineseRestaurant🍣🥬🍖 - 中餐厅 <br>
 
 📌Used: Json Server, Boostrap & Angular
 
-📌Angular Course work
 
 Made with love By Gergana™
